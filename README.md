@@ -63,7 +63,7 @@ on push to `main`) and Vercel (connected via the Vercel GitHub App).
 
 - **Contact form**: the Web3Forms access key is hardcoded in
   `contact/index.html`'s form as a hidden `access_key` input.
-- **Calendly link**: `https://calendly.com/admin-conleybookkeepingllc/discovery-call`,
+- **Calendly link**: `https://calendly.com/horizonlinefinancial/horizon-line-discovery-call`,
   used for both the "Schedule a Free Call" buttons and the Contact page's
   inline booking widget.
 - **Social links**: only LinkedIn is currently linked, in the footer
